@@ -1,3 +1,0 @@
-**/NuGetPackageExplorer.*
-**/ChocolateyInstall.ps1
-**/dotnet-validate.*
